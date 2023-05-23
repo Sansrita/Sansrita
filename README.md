@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sansritasaha@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/drive/u/0/my-drive](https://bit.ly/SansritaSahaResume))
+- 📄 Know about my experiences [My Resume](https://bit.ly/SansritaSahaResume)
 
 - ⚡ Fun fact **I love to listen Lofi Music**
 
