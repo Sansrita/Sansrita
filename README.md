@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sansrita</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
+- 🔭 I’m currently working on **MERN STACK DEVELOPMENT, AI/Ml**
 
-- 💬 Ask me about **Frontend Development, Python**
+- 💬 Ask me about **Frontend Development, Python, DSA**
 
 - 📫 How to reach me **sansritasaha@gmail.com**
 
