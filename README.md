@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sansritasaha@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://docs.google.com/document/d/1zqt7kzW8SLNaAxcynA_GTsi3SEqu-pHg14pI8y1BLwY/edit])
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1zqt7kzW8SLNaAxcynA_GTsi3SEqu-pHg14pI8y1BLwY/edit)
 
 - ⚡ Fun fact **Okay let me think**
 
